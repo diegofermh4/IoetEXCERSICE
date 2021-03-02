@@ -5,6 +5,9 @@ import java.util.List;
 
 public class EmployeInfraestructure {
 	private List<String> employes;
+	/**
+	 * Get Employes from files
+	 */
 	public EmployeInfraestructure()
 	{
 		employes= new ArrayList();

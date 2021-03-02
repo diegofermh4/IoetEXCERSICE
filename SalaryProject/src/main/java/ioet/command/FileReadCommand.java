@@ -16,7 +16,9 @@ public class FileReadCommand implements Command {
 	public FileReadCommand(EmployeInfraestructure emp) {
 		this.employes = emp;
 	}
-
+/**
+ * Obtain data from file and transform file to list
+ */
 	@Override
 	public void execute() {
 		// TODO Auto-generated method stub
