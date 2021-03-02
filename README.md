@@ -16,4 +16,4 @@ This project use Domain Driven Design model, it has follow layers:</br></br>
 </p>
 I try that the infraestructure encapsule the data access because it is a layer that  mantain clean the domain,  i use a command pattern to encapsulate in an object all the data required for performing a read to file how data access.
 It is a maven project, for command line locate  root project (pom.xml location) execute  mvn -install, this command build a jar file SalaryProject-0.0.1.jar, for execute this jar, you can use the next command : </br>
-</b)java -jar SalaryProject-0.0.1.jar
+</b>java -jar SalaryProject-0.0.1.jar
