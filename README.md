@@ -1,7 +1,7 @@
 # IoetEXCERSICE
-##It is a java aplication, the jdk used is openjdk15.
-##The class App is the main class.
-##It is a maven project.
+It is a java aplication, the jdk used is openjdk15.</br>
+The class App is the main class.</br>
+It is a maven project.</br>
 <p>
 This project calculate the salary from employes.</br>
 The input data is througth process txt file locate in META-INF folder.</br>
